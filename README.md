@@ -1,4 +1,5 @@
 # ROS_Camera_Extraction
-Ways to extract image_raw topic on ROS environment
+How to extract image_raw topic (camera topic) on ROS environment.
+that is several method, that are :
 - Libuvc camera
 - Nodelets
